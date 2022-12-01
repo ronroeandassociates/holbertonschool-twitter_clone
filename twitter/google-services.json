@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "811571147385",
+    "firebase_url": "https://velvety-accord-300701-default-rtdb.firebaseio.com",
+    "project_id": "velvety-accord-300701",
+    "storage_bucket": "velvety-accord-300701.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811571147385:android:a8ea51fc5d56f1665ddaa8",
+        "android_client_info": {
+          "package_name": "olsen.ron_twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811571147385-osqvikbhe7t9euppsa2g8jncg2jlau98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8QuQr5xuGEnQlXniKbYL40_WlH6hRr20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811571147385-osqvikbhe7t9euppsa2g8jncg2jlau98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
